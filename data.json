@@ -1,7 +1,1 @@
-[
-  {
-    "title": "example",
-    "description": "This is an example.",
-    "url": "http://example.com"
-  }
-]
+[{"title":"example","description":"This is an example.","url":"http://example.com"},{"title":"a test","description":"a woooo","url":"http://ok.pizza"}]
